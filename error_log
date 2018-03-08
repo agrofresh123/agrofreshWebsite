@@ -1,0 +1,3 @@
+[04-Dec-2017 14:57:52 Etc/GMT] PHP Fatal error:  Cannot redeclare Email::footerform() in /home/whatsdesign/public_html/aff/ci/application/controllers/Api/Email.php on line 115
+[04-Dec-2017 14:57:53 Etc/GMT] PHP Fatal error:  Cannot redeclare Email::footerform() in /home/whatsdesign/public_html/aff/ci/application/controllers/Api/Email.php on line 115
+[04-Dec-2017 14:58:04 Etc/GMT] PHP Fatal error:  Cannot redeclare Email::footerform() in /home/whatsdesign/public_html/aff/ci/application/controllers/Api/Email.php on line 115

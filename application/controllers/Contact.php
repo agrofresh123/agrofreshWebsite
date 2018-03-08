@@ -1,0 +1,22 @@
+<?php
+defined('BASEPATH') or exit('No direct script access allowed');
+
+class Contact extends CI_Controller
+{
+    public function __construct()
+    {
+        parent::__construct();
+        /*cache control*/
+        $this->output->set_header('Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0');
+        $this->output->set_header('Pragma: no-cache');
+    }
+
+    public function index()
+    {
+        $page_data['heading']    = 'Agro Fresh Foods Enterprises | Contact';
+        $page_data['page_title'] = ':: Agro Fresh Foods Enterprises | Contact ::';
+        $page_data['pagename'] 	 = 'contact';
+        $page_data['bodyclass']  = 'inner-pg';
+        $this->load->view('front/home', $page_data);
+    }
+}
