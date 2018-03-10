@@ -118,7 +118,8 @@ class Email extends CI_Controller
     {
         $data 	                  = array('Response-Status' => false,'Response-Validate' => false, 'Response-Message' => array());
         $master_email['name']     = $this->input->post('foname');
-        $master_email['contact']    = $this->input->post('contact');
+        $master_email['subject']    = $this->input->post('contact');
+        $master_email['email']    = $this->input->post('email');
         $master_email['message']  = $this->input->post('fomessage');
         $master_email['ip']       = $this->input->ip_address();
         $this->form_validation->set_rules('foname', 'Name', 'trim|xss_clean|required');
@@ -128,7 +129,7 @@ class Email extends CI_Controller
         $this->form_validation->set_message('required', 'Enter %s');
 
         if ($this->form_validation->run()) {
-            $status = $this->sendmail($master_email, 'footerenquiry', 'Footer Enquiry Form');
+            $status = $this->sendmail($master_email, 'enquiry', 'Footer Enquiry Form');
             // $status = $this->sendtouser($master_email['email'], 'thankyou', 'Footer Enquiry Form');
             if ($status==true) {
                 $data['Response-Status']   = true;
