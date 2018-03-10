@@ -91,6 +91,18 @@
                   </div>
 
                 </div>
+                
+                <div class="input input--kohana control-group">
+
+                  <div class="control-group">
+
+                    <input type="text" class="form-control input__field input__field--kohana" placeholder="" name="email" id="email" />
+
+                    <label class="input__label input__label--kohana"> <i class="ion-email icon--kohana"></i> <span class="input__label-content input__label-content--kohana">Email ID</span> </label>
+
+                  </div>
+
+                </div>
 
                 <div class="input input--kohana control-group">
 
