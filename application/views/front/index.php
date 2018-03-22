@@ -29,7 +29,7 @@
         to meet the evolving demands of our global customer. Digital channels for food traceability onset at the farm level. Organisation wide ERP and CRM level up operational efficiencies across all geographies and offer real-time service to our
         customers.</p>
       <p>As we keep growing, we aspire to explore new geographies and devise new products for the global pallet.</p>
-      <p>Under the leadership of <strong>Mr. Mazher Hassan</strong>, we are setting milestones of success for ourselves in the market. His knowledge of the industry, charismatic managerial skills, vibrant leadership qualities and regular motivation to
+      <p>Under the leadership of <strong>Mr. Meraj Hasan</strong>, we are setting milestones of success for ourselves in the market. His knowledge of the industry, charismatic managerial skills, vibrant leadership qualities and regular motivation to
         personnel has enabled us to win faith of a large number of customers.</p>
     </div>
   </div>
