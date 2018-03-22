@@ -151,19 +151,10 @@
         <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
 
           <ul class="foot-social">
-
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-
-            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-
-            <li><a href="#"><i class="fa fa-share-alt"></i></a></li>
-
-            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-
-            <li><a href="#"><i class="fa fa-skype"></i></a></li>
-
+            <li><a href="https://www.facebook.com/agrofreshfoods/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            <li><a href="javascript:alert('link update soon');"><i class="fa fa-twitter"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCGW5b2mH_4LodfN8nr7II1A" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+			<li><a href="https://www.linkedin.com/in/agro-fresh-384534141" target="_blank"><i class="fa fa-linkedin"></i></a></li>
           </ul>
 
         </div>

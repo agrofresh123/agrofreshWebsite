@@ -46,14 +46,14 @@ if ($pagename == 'index') {
     <div id="panel-top">
       <div class="container">
         <div class="row">
-          <div class="col-sm-6 col-xs-12"> <span class="top-info-email"><a href="#"><i class="ion-email top-info-icon"></i>contact@agrofreshfood.com</a></span> </div>
-          <div class="col-sm-6 col-xs-12"> <span class="top-info-contact"><i class="ion-android-call top-info-icon"></i>+91 9898989898</span> </div>
+          <div class="col-sm-6 col-xs-12"> <span class="top-info-email"><a href="mailto:freshagroindia@gmail.com"><i class="ion-email top-info-icon"></i>freshagroindia@gmail.com</a></span> </div>
+          <div class="col-sm-6 col-xs-12"> <span class="top-info-contact"><i class="ion-android-call top-info-icon"></i>+91 9910900751</span> </div>
           <div class="col-sm-6 col-xs-12">
             <ul class="social-top-info">
-              <li><a href="#"><i class="fa fa-facebook head-social-icon on-reg" id="face-head2" data-original-title="" title=""></i></a></li>
-              <li><a href="#"><i class="fa fa-twitter head-social-icon" id="tweet-head2" data-original-title="" title=""></i></a></li>
-              <li><a href="#"><i class="fa fa-pinterest-p head-social-icon" id="gplus-head2" data-original-title="" title=""></i></a></li>
-              <li><a href="#"><i class="fa fa-google-plus head-social-icon" id="link-head2" data-original-title="" title=""></i></a></li>
+				<li><a href="https://www.linkedin.com/in/agro-fresh-384534141" target="_blank"><i class="fa fa-linkedin head-social-icon" id="link-head2" data-original-title="" title=""></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UCGW5b2mH_4LodfN8nr7II1A" target="_blank"><i class="fa fa-youtube-play head-social-icon" id="gplus-head2" data-original-title="" title=""></i></a></li>
+				<li><a href="javascript:alert('link update soon');"><i class="fa fa-twitter head-social-icon" id="tweet-head2" data-original-title="" title=""></i></a></li>
+				<li><a href="https://www.facebook.com/agrofreshfoods/" target="_blank"><i class="fa fa-facebook head-social-icon on-reg" id="face-head2" data-original-title="" title=""></i></a></li>
             </ul>
           </div>
           <div class="col-sm-6 col-xs-12">
@@ -79,9 +79,7 @@ if ($pagename == 'index') {
                   <button class="dl-trigger">Open Menu</button>
                   <ul class="dl-menu">
                     <li <?php echo $hclass;?>> <a href="<?php echo base_url();?>">Home</a> </li>
-                    <li> <a href="about-us">About Us</a></li>
-                    <li> <a href="quality-committment">Quality Committment</a></li>
-                    <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products</a>
+					<li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products</a>
                       <ul class="dl-submenu">
                         <li> <a href="#">Frozen Fruits and Vegetables</a>
                           <ul class="dl-submenu">
@@ -138,7 +136,9 @@ if ($pagename == 'index') {
                         </li>
                       </ul>
                     </li>
-                    <li> <a href="#">Contact Us</a></li>
+					<li> <a href="quality-committment">Quality Committment</a></li>
+                    <li> <a href="gallery">Gallery</a></li>
+                    <li> <a href="contact">Contact Us</a></li>
                   </ul>
                 </div>
                 <!-- /dl-menuwrapper -->
