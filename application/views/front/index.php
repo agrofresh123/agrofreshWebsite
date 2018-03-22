@@ -13,12 +13,12 @@
     </div>
   </div>
 </section>
-<!--About Agro Freesh Food-->
+<!--About Agro Fresh Foods-->
 <section class="mcare-aboutclinic" style="padding-bottom:0">
   <div class="mcare-aboutclinic-title">
     <div class="container">
-      <h2 class="mcare-h2">About Agro Freesh Food</h2>
-      <p><strong>Agro Fresh Foods Enterprises.</strong> is dedicatedly catering to the requirements of food & beverage industry and kitchens of various homes, hotels, restaurants and canteens. We are a prestigious <strong>Manufacturer, Exporter and Supplier of Frozen/IQF Fruit and Vegetables, Dehydrated Fruits and Vegetables, Freeze Dried Fruits and Vegetables, Aseptic /Canned Pulp, Puree, concentrate and Paste and Fresh Fruits and Vegetables.</strong>            Our company procures fresh fruits, vegetables, and juices from prominent agro farms for processing offered food products as per international standards. Being an <strong>ISO 22000, FSSAI, APEDA</strong> firm.</p>
+      <h2 class="mcare-h2">About Agro Fresh Foods</h2>
+      <p><strong>Agro Fresh Foods</strong> is dedicatedly catering to the requirements of food & beverage industry and kitchens of various homes, hotels, restaurants and canteens. We are a prestigious <strong>Manufacturer, Exporter and Supplier of Frozen/IQF Fruit and Vegetables, Dehydrated Fruits and Vegetables, Freeze Dried Fruits and Vegetables, Aseptic /Canned Pulp, Puree, concentrate and Paste and Fresh Fruits and Vegetables.</strong>            Our company procures fresh fruits, vegetables, and juices from prominent agro farms for processing offered food products as per international standards. Being an <strong>ISO 22000, FSSAI, APEDA</strong> firm.</p>
       <p>With our focus towards clients' satisfaction, we are climbing up ladders of enviable growth & success. All our products are offered to clients after ensuring high quality and in several quantities packs so as to fir into the diverse requirements
         of patrons. Our professionals get immense support of maintained facilities for freezing, dehydrating, drying and other production tasks.</p>
       <p><strong>Agro Fresh Foods Enterprises.</strong> is an Indian producer, marketer and global supplier of food ingredients (fruits and vegetables based), agricultural commodities and customer-centric solutions for the food and beverage industry.</p>
