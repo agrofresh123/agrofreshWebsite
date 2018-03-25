@@ -113,6 +113,7 @@ if ($pagename == 'index') {
                             <li><a tabindex="-1" href="products#allPro3|subPro14">Guava Pulp - White &amp; Pink</a></li>
                             <li><a tabindex="-1" href="products#allPro3|subPro15">Banana Puree</a></li>
                             <li><a tabindex="-1" href="products#allPro3|subPro16">Papaya Pulp - Red &amp; Yellow</a></li>
+                            <li><a tabindex="-1" href="products#allPro3|subPro17">Whole Canned Litchi</a></li>
                           </ul>
                         </li>
                         <li> <a href="#">Aseptic Paste & Concentrate</a>
