@@ -1624,7 +1624,6 @@ outline: none;
 }
 form input:invalid, form textarea:invalid {
 }
-.proImgContainer img{border: 1px solid #ccc;padding: 5px;background: #eee;border-radius: 15px;}
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {/* IE10+ specific styles go here */
 .foot-subscribe .subscribe-button { padding: 9px 0px 9px 0px; }
 .owl-carousel4 .owl-thumb-item { display: inline-block; }
@@ -2217,6 +2216,9 @@ figure.effect-bubba p i { font-size: 16px; margin-top: 8px; }/*gal2*/
 .doc-about-content { padding: 30px 15px; }/*navbar*//*tool tip*/
 .tooltip-box-content { width: 300px; }
 .tooltip-content { position: absolute; z-index: 9999; width: 300px; left: 50%; margin: 0 0 20px -65px; }
+#dl-menu .dl-menu li.dropdown li:nth-child(2) li:first-child a{padding: 15px 20px;padding-left: 30px;}
+#dl-menu .dl-menu li.dropdown li:nth-child(2) li a{padding:1px 20px;font-size: 12px;}
+.toggle h3{width: calc(100% - 43px);}
 }
 @media (max-width: 550px) {/*home tabs*/
 .mcare-aboutclinic-tabs ul.mcare-tabs-inner li a span, .mcare-aboutclinic-tabs ul.mcare-tabs-inner li.active a span { display: none; }
@@ -2237,3 +2239,6 @@ figure.effect-bubba p i { font-size: 16px; margin-top: 8px; }/*gal2*/
 }
 @media (max-width: 320px) {
 }
+
+.mcare-address-box h4{padding-top:0 !important;padding-bottom:10px;margin-bottom:0;}
+.mcare-address-box p{padding-top:0 !important;padding-bottom:5px !important;}

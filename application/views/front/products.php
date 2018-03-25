@@ -1448,6 +1448,7 @@
                             <li>Guava Pulp - White &amp; Pink</li>
                             <li>Banana Puree</li>
                             <li>Papaya Pulp - Red &amp; Yellow</li>
+                            <li>Whole Canned Litchi</li>
                         </ul>
                         <div class="resp-tabs-container ver_1">
                             <div>
@@ -2300,6 +2301,13 @@
                                     </table>
                                     <span><br>Product name, batch/product code, net/gross weight, date of manufacture, storage instruction are printed on the label, affixed to each drum/box. The products are packed in an aseptic system with high quality and competitive price.<br><br></span>
                                 </p>
+                            </div>
+                            <div>
+                                <p><strong>Canned Litchi Specification</strong> Canned litchi are peeled, seedless litchi in syrup. The usual ingredients are water, litchi, sugar and citric acid. The creamy white flesh is juicy, smooth and delicately sweet. 1-2" in diameter. The litchi is the sole member of the genus Litchi in the soapberry family Sapindaceae. It is a tropical fruit tree, primarily found in Muzafferpur (Bihar).<br><br>It is a fragranced fruit with a sweet taste. The inside consists of a layer of sweet, translucent white flesh, rich in vitamin C, with a texture somewhat similar to that of a grape only much less moist. The specifications for Canned Litchi include,<br><br> <strong>Brix :</strong> 14-17 (Light Syrup), 17-20(Heavy Syrup), and it may be either Whole or Broken. Pour a can of litchi into a bowl and it can be relished as it is or as drinks, in icecreams , cakes or cold salads.<br><br>
+                                <div class="text-center proImgContainer">
+                                	<img src="images/whole-canned-lichi.jpeg">
+                                </div>
+                             </p>
                             </div>
                         </div>
                     </div></p>
